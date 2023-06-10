@@ -16,3 +16,6 @@ public class Birthday {
         System.out.println(name + ", você nasceu em um(a) " + date.getDayOfWeek().getDisplayName(TextStyle.FULL, new Locale("pt")) + ".");
     }
 }
+
+/* ALGORIMO EM QUE O USUÁRIO USE SUA DATA DE NASCIMENTO 
+    E A SAÍDA É O DIA DA SEMANA EM QUE NASCEU */
